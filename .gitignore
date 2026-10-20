@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# build PyInstaller (gli exe vanno nelle release, non nel repo)
+build/
+dist/
+
+# log di errore
+error.log
+
+# artefatti di test / screenshot (l'icona va versionata)
+*.png
+!icon.png
+test_track.wav
+*.log
+
+# editor / sistema
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
