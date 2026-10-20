@@ -114,3 +114,14 @@ All'avvio il processo si dichiara *DPI-aware*, quindi vengono usati i **pixel
 fisici** del monitor (es. 2560×1440 o 3840×2160, non quelli scalati da Windows).
 Il full screen viene applicato al monitor sotto il cursore: con più monitor si
 può sceglierne uno con `--monitor N` o spostando la finestra prima di premere `F`.
+
+## Licenza
+
+**MIT License — licenza gratuita con libera distribuzione.**
+
+Puoi usare, copiare, modificare, pubblicare e ridistribuire il software (anche
+a fini commerciali), purché siano conservati il copyright e il testo della
+licenza (file `LICENSE`). Nessuna autorizzazione richiesta, nessuna royalty.
+
+Testo completo in inglese: [`LICENSE`](LICENSE) — standard riconosciuto da
+GitHub.
